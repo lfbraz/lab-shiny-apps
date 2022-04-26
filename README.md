@@ -37,3 +37,6 @@ First clone this repo in your environment.
 
 - Create an Webapp based on your container
 az webapp create --resource-group RG-SHINY-APPS --plan labshinyapps --name labshinyapps -i labshinyapps.azurecr.io/my-shiny-app:latest
+
+## Additional content
+- [Telethon Kids Institute ShinyProxy Docker Template](https://github.com/TelethonKids/deploy_shiny_app)
